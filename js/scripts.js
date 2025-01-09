@@ -9,6 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const newLang = currentLang === 'he' ? 'en' : 'he';
         document.documentElement.lang = newLang;
         document.documentElement.dir = newLang === 'he' ? 'rtl' : 'ltr';
+        document.title = newLang === 'he' ? 'אלדור לדפוס' : 'Eldor Printing Supplies';
         updateContent(newLang);
     });
 
