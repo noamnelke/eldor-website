@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>חברתנו</title>
+    <link rel="stylesheet" href="css/styles.css">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="/img/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg" />
+    <link rel="shortcut icon" href="/img/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="Eldor" />
+    <link rel="manifest" href="/img/site.webmanifest" />
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik+Marker+Hatch&family=Rubik:ital@0;1&display=swap" rel="stylesheet">
+
+    <script src="js/scripts.js" defer></script>
+</head>
+<body>
+    <header class="centered-header">
+        <img src="img/letterhead.png" alt="Letterhead" class="letterhead-img">
+        <nav>
+            <div class="content">
+                <a href="#about" class="active" data-i18n="nav.about">אודותינו</a>
+                <a href="#services" data-i18n="nav.services">שירותים</a>
+                <a href="#" id="language-toggle" data-i18n="nav.languageToggle">English</a>
+            </div>
+        </nav>
+    </header>
+    <main class="main-content">
+        <section id="about">
+            <video autoplay muted loop playsinline>
+                <source src="img/family-pink.mp4" type="video/mp4">
+            </video>
+            <div class="text-box">
+                <h2 data-i18n="about.title">מי אנחנו</h2>
+                <p data-i18n="about.paragraph1">חברת אלדור לדפוס נוסדה בשנת 1983 על ידי פטר ודורית נלקה ועוסקת בשווק וביבוא ציוד לענף הדפוס.</p>
+                <p data-i18n="about.paragraph2">החברה חרטה על דגלה את עקרונות האמינות והשרות ללקוח. פטר ודורית שוקדים לקיים וליישם עקרונות אלה שעה שעה, יום יום ולילה לילה… חברת אלדור משווקת ציוד של היצרנים המובילים בתחומם בעולם ומספקת עבורו שרות אמין, מהיר ומקצועי.</p>
+            </div>
+        </section>
+        <section id="services">
+            <div class="text-box">
+                <h2 data-i18n="services.title">שירותים</h2>
+                <ul>
+                    <li>
+                        <h3 data-i18n="services.leadingCompanies.title">ייצוג חברות מובילות</h3>
+                        <p data-i18n="services.leadingCompanies.description">
+                            חברת אלדור לדפוס מייצגת בישראל מספר חברות מהמובילות בעולם בציוד ומיכון לדפוס ובינהן:
+                        </p>
+                        <ul>
+                            <li><img src="/img/suppliers/radobla.png">Radobla</li>
+                            <li><img src="/img/suppliers/logo-kba.png">König & Bauer Metalprint</li>
+                            <li><img src="img/suppliers/baldwin.png">Baldwin</li>
+                            <li><img src="img/suppliers/conti.png">ContiTech</li>
+                            <li><img src="img/suppliers/toppy.png">Toppy</li>
+                            <li><img src="img/suppliers/boettcher.png">Böttcher</li>
+                            <li data-i18n="services.leadingCompanies.others">ואחרות...</li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h3 data-i18n="services.printProducts.title">מוצרים לדפוס</h3>
+                        <p data-i18n="services.printProducts.description">
+                            בלנקטים רגילים ובלנקטים להדפסת לכה, גלילי גומי, תוספי מים וחומרי רחיצה, מערכות ערבול ומנון, מערכות קרור וצינון, מערכות ייבוש IR ו- UV ומפזרי אבקה לכל שיטות ההדפסה, גלילי אנילוקס ועוד.
+                        </p>
+                    </li>
+                </ul>
+            </div>
+    </main>
+    <footer>
+        <p><a href="tel:+97297414333">09-7414333</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="mailto:info@eldor-print.co.il">info@eldor-print.co.il</a></p>
+    </footer>
+</body>
+</html>
