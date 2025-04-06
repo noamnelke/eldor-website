@@ -9,6 +9,7 @@ header {
     position: fixed;
     width: 100%;
     top: 0;
+    z-index: 1000;
 }
 
 header h1 {
@@ -79,22 +80,8 @@ main h2 {
 
 section {
     width: 100%;
-    background-size: cover;
-    background-position: center;
     padding: 20px 0;
     position: relative;
-    z-index: -1;
-}
-
-section::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(255, 255, 255, 0.3);
-    z-index: -1;
 }
 
 .text-box {
@@ -120,9 +107,23 @@ section::before {
     margin-top: 0;
 }
 
+#services ul li ul {
+    gap: 10px;
+}
+
 #services ul li ul li {
     text-align: center;
     font-size: 85%;
+}
+
+#services ul li ul li:not(:last-child) {
+    border: 1px solid #666A6F;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+#services ul li ul li:not(:last-child):hover {
+    background-color: #EEF1EF;
 }
 
 #services ul li ul li img {
@@ -135,21 +136,13 @@ section::before {
 
 #about {
     background: #F69495C0;
-    padding-bottom: calc(min(300px,50vw));
 }
 
-#about video {
+#about img {
     width: 600px;
     max-width: 100%;
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    transform: translateX(-50%);
     display: block;
-    margin: 0 auto;
-    z-index: -2;
-    mask-image: linear-gradient(to top, rgba(0, 0, 0, 1) 90%, rgba(0, 0, 0, 0) 100%);
-    mask-size: 100% 100%;
+    margin: -20px auto;
 }
 
 footer {
@@ -179,13 +172,7 @@ footer a {
     }
 }
 
-@media screen and (max-width: 605px) {
-    #services ul li ul {
-        gap: 20px;
-    }
-}
-
-@media screen and (max-width: 565px) {
+@media screen and (max-width: 620px) {
     #services ul li {
         flex: 1 1 100%;
     }
@@ -195,7 +182,7 @@ footer a {
     }
 }
 
-@media screen and (max-width: 295px) {
+@media screen and (max-width: 316px) {
     #services ul li ul li {
         flex: 1 1 100%;
     }
