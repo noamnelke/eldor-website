@@ -64,6 +64,8 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
 
+        if (!currentSectionId) return;
+
         navLinks.forEach(link => {
             link.classList.remove('active');
             if (link.getAttribute('href').substring(1) === currentSectionId) {
