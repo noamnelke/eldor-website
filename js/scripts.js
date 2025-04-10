@@ -1,28 +1,7 @@
 // This file handles the language toggle functionality and dynamically updates the content based on the selected language.
 
 document.addEventListener('DOMContentLoaded', function() {
-    const languageToggle = document.getElementById('language-toggle');
     const contentElements = document.querySelectorAll('[data-i18n]');
-
-    languageToggle.addEventListener('click', function() {
-        const currentLang = document.documentElement.lang;
-        const newLang = currentLang === 'he' ? 'en' : 'he';
-        document.documentElement.lang = newLang;
-        document.documentElement.dir = newLang === 'he' ? 'rtl' : 'ltr';
-        document.title = newLang === 'he' ? 'אלדור לדפוס' : 'Eldor Printing Supplies';
-        updateContent(newLang);
-    });
-
-    function updateContent(lang) {
-        fetch(`./i18n/${lang}.json`)
-            .then(response => response.json())
-            .then(translations => {
-                contentElements.forEach(element => {
-                    const key = element.getAttribute('data-i18n');
-                    element.textContent = translations[key] || key;
-                });
-            });
-    }
 
     function updateMainMargin() {
         const headerHeight = document.querySelector('header').offsetHeight - 1;
