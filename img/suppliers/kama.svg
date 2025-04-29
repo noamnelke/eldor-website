@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="layer"
+   x="0px"
+   y="0px"
+   viewBox="0 0 491.80078 500"
+   xml:space="preserve"
+   sodipodi:docname="kama.svg"
+   width="491.80078"
+   height="500"
+   inkscape:export-filename="kama.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs8">
+	
+	
+	
+	
+	
+	
+	
+	
+</defs><sodipodi:namedview
+   id="namedview8"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="0.89582648"
+   inkscape:cx="251.72285"
+   inkscape:cy="251.16471"
+   inkscape:window-width="1312"
+   inkscape:window-height="829"
+   inkscape:window-x="0"
+   inkscape:window-y="38"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="layer" />
+<style
+   type="text/css"
+   id="style1">
+	.st0{fill:#002A55;}
+	.st1{fill:#002B59;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#8B96B5;}
+</style>
+<path
+   id="path1"
+   style="display:inline"
+   class="st0"
+   d="M 245.90039,0 C 110.00053,0 0,111.80014 0,250 0.7,388.19986 110.60053,500 245.90039,500 381.80025,500 491.80078,388.19986 491.80078,250 491.80078,111.80014 381.80025,0 245.90039,0 Z m 0.69922,57.000001 C 351.6995,57.000001 436.5,143.20011 436.5,250 c 0,106.79989 -84.8005,193 -189.90039,193 -105.0999,0 -189.898439,-86.10011 -189.898439,-193 0,-106.09989 84.798539,-192.299999 189.898439,-192.999999 z" /><path
+   class="st1"
+   d="m 47.600391,250.00039 c 0,-111.8 88.999999,-201.599999 198.299999,-201.599999 110,0 198.3,90.499999 198.3,201.599999 0,111.8 -89,201.6 -198.3,201.6 -109.3,0.7 -198.299999,-89.8 -198.299999,-201.6"
+   id="path2"
+   style="display:none" /><path
+   class="st2"
+   d="m 246.60039,443.00039 c 105.1,0 189.9,-86.2 189.9,-193 0,-106.8 -84.8,-192.999999 -189.9,-192.999999 -105.1,0.7 -189.899999,86.899999 -189.899999,192.999999 0,106.9 84.799999,193 189.899999,193 z"
+   id="path9"
+   style="display:none" /><path
+   class="st1"
+   d="m 191.20039,391.00039 h 7 l 4.9,-12.8 h 23.1 l 4.9,12.8 h 7 l -19.6,-49.9 h -7 z m 32.9,-18.5 h -18.9 l 9.1,-24.9 z"
+   id="path4" /><path
+   class="st1"
+   d="m 152.70039,391.00039 h 7 v -24.9 l 20.3,24.9 h 9.8 l -23.8,-26.4 22.4,-24.2 h -9.1 l -19.6,22.1 v -22.1 h -7 z m 92.5,0 h 6.3 v -43.4 l 16.1,43.4 h 6.3 l 15.4,-43.4 v 43.4 h 7 v -50.6 h -11.2 l -14.7,42 -14.7,-42 h -10.5 z"
+   id="path5" /><path
+   class="st1"
+   d="m 302.60039,391.00039 h 7 l 4.9,-12.8 h 22.4 l 4.9,12.8 h 7 l -19.6,-49.9 h -7 z m 32.9,-18.5 h -18.9 l 9.1,-24.9 z"
+   id="path6" /><path
+   class="st1"
+   d="m 342.50039,309.10039 -78.5,-103.3 80.6,-97.6 h -71.5 l -63.8,84 h -0.7 v -84 h -56 v 200.9 H 62.900391 v 5.7 H 210.00039 v -87.6 l 65.2,87.6 h 151.3 l 2.8,-5.7 z"
+   id="path7" /><path
+   class="st3"
+   d="m 152.70039,319.10039 h 72.2 c 0,0 14.7,-20.7 32.9,0 h 90.4 v 5.7 h -94.6 c -6.3,-12.1 -18.9,-12.1 -25.2,0 h -75.7 z"
+   id="path8" />
+</svg>

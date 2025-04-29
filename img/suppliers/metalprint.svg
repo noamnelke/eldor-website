@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   data-bbox="0 0 198.41 17.01"
+   viewBox="0 0 198.42 35"
+   data-type="color"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="logo-kba.svg"
+   width="198.42"
+   height="35"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.6343961"
+     inkscape:cx="99.263736"
+     inkscape:cy="11.387809"
+     inkscape:window-width="1312"
+     inkscape:window-height="761"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <g
+     id="g2">
+    <switch
+       id="switch1">
+      <g
+         id="g1">
+        <path
+           fill="#002355"
+           d="m 110.03,9.25 v 2.68 c 0,3.04 -2.18,5.08 -5.33,5.08 -3.09,0 -5.38,-2.28 -5.38,-5.08 0,-3.35 2.7,-4.42 2.79,-4.46 -0.13,-0.06 -1.82,-1.06 -1.82,-3.32 0,-2.59 2.2,-4.15 4.41,-4.15 2.43,0 4.35,1.55 4.35,4.15 h -1.84 c 0,-1.3 -1.14,-2.36 -2.51,-2.36 -1.37,0 -2.51,1.07 -2.51,2.36 0,1.6 1.44,2.55 2.48,2.55 h 0.47 v 1.78 h -0.47 c -2.07,0 -3.43,1.66 -3.43,3.45 0,1.8 1.57,3.25 3.46,3.25 1.22,0 3.47,-0.48 3.47,-3.43 V 7.47 h 3.64 v 1.78 z m -40.92,7.14 h 2.03 V 0.53 H 69.11 Z M 61.22,11.81 49.94,0.35 v 16.04 h 2.03 V 5.11 L 63.25,16.57 V 0.53 H 61.22 Z M 11.75,0.53 H 9.25 L 2.03,8.27 V 0.53 H 0 V 16.39 H 2.03 V 8.65 l 7.62,7.74 h 2.7 L 4.44,8.46 Z m 18.9,7.93 c 0,4.6 -3.57,8.11 -8.09,8.11 -4.52,0 -8.09,-3.51 -8.09,-8.11 0,-4.6 3.57,-8.11 8.09,-8.11 4.53,0 8.09,3.5 8.09,8.11 m -2.07,0 c 0,-3.48 -2.56,-6.16 -6.02,-6.16 -3.45,0 -6.02,2.68 -6.02,6.16 0,3.48 2.56,6.16 6.02,6.16 3.46,0 6.02,-2.68 6.02,-6.16 m 6.37,7.93 h 9.14 V 14.42 H 36.98 V 9.44 h 5.43 V 7.47 H 36.98 V 2.49 h 7.11 V 0.53 H 34.95 Z M 164.2,10.44 c 0,2.75 -1.74,4.18 -4.28,4.18 -2.54,0 -4.28,-1.43 -4.28,-4.18 V 0.53 h -2.03 v 9.83 c 0,3.89 2.63,6.21 6.31,6.21 3.7,0 6.31,-2.32 6.31,-6.21 V 0.53 h -2.03 z m -80.36,-1 h 3.59 v 4.31 c -0.98,0.58 -2.32,0.87 -3.59,0.87 -3.45,0 -6.02,-2.68 -6.02,-6.16 0,-3.48 2.56,-6.16 6.02,-6.16 1.6,0 3.08,0.56 4.12,1.47 l 1.38,-1.41 c -1.43,-1.32 -3.36,-2.01 -5.5,-2.01 -4.52,0 -8.09,3.51 -8.09,8.11 0,4.6 3.57,8.11 8.09,8.11 2.07,0 4.15,-0.67 5.62,-1.79 v -7.3 h -5.62 z m 88.04,6.95 h 9.14 v -1.97 h -7.11 V 9.44 h 5.43 V 7.47 h -5.43 V 2.49 h 7.11 V 0.53 h -9.14 z m -28.91,-16.04 7.71,16.04 h -2.18 l -1.96,-4.15 h -7.13 l -1.96,4.15 h -2.18 z m 2.71,10 -2.68,-5.67 -2.67,5.67 z m -13.08,1.57 c 0,2.88 -2.21,4.47 -5.46,4.47 h -5.53 V 0.53 h 5.09 c 3.05,0 4.85,1.97 4.85,4.2 0,1.61 -0.62,2.64 -1.65,3.33 1.61,0.5 2.7,1.71 2.7,3.86 m -8.97,-4.45 h 3.21 c 1.67,0 2.67,-1.18 2.67,-2.59 0,-1.34 -1,-2.39 -2.67,-2.39 h -3.21 z m 6.91,4.36 c 0,-1.47 -1.03,-2.39 -3.17,-2.39 h -3.74 v 4.98 h 3.74 c 2.15,0 3.17,-1.05 3.17,-2.59 m 60.24,-2.55 h -1.87 v 7.1 h -2.03 V 0.53 h 5.09 c 3.05,0 4.85,1.97 4.85,4.2 0,2.03 -0.84,4.04 -3.73,4.46 l 5.32,7.2 h -2.45 z m -1.87,-1.81 h 3.21 c 1.67,0 2.67,-1.18 2.67,-2.59 0,-1.34 -1,-2.39 -2.67,-2.39 h -3.21 z"
+           data-color="1"
+           id="path1" />
+      </g>
+    </switch>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:18.6667px;font-family:Avenir;-inkscape-font-specification:'Avenir, Normal';text-align:center;direction:rtl;text-anchor:middle;opacity:1;fill:#002355;paint-order:markers fill stroke;fill-opacity:1;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+     x="98.836296"
+     y="34.835938"
+     id="text2"><tspan
+       sodipodi:role="line"
+       id="tspan2"
+       x="98.836296"
+       y="34.835938">MetalPrint</tspan></text>
+</svg>
